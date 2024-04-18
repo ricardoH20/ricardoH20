@@ -5,7 +5,7 @@
 
 - 👯 Busco colaborar en **Especialista de Soporte o Desarrollador**
 
-- 🤝 Estoy buscando ayuda con **Especialista de Soporte o Desarrollador**
+- 🤝  **Especialista de Soporte o Desarrollador (programador junior)**
 
 - 💬 Pregúntame sobre **cualquier cosa**
 
