@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **React, Next.js, TS**
 
-- 👯 Busco colaborar en **Especialista de Soporte o Desarrollador**
+- 👯 Busco colaborar en **Especialista de Soporte y Desarrollador, soporte tecnico o adminitrador de redes**
 
 - 💬 Pregúntame sobre **cualquier cosa**
 
