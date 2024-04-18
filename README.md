@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo Hepburn</h1>
-<h3 align="center">Desarrollador Backend & Frontend, Especialista de Soporte</h3>
+<h3 align="center">Desarrollador FullStack Especialista de Soporte</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React, Next.js, TS**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecta conmigo</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ricardoh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ricardoh20" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/ricardoh20](https://www.linkedin.com/in/ricardoh20/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ricardoh20" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ricardo.hepburn.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ricardo.hepburn.14" height="30" width="40" /></a>
 </p>
 
