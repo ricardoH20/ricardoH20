@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ricardo Hepburn</h1>
-<h3 align="center">Backend & Frontend Developer, Support Specialist</h3>
+<h1 align="center">Hola 👋, soy Ricardo Hepburn</h1>
+<h3 align="center">Desarrollador Backend & Frontend, Especialista de Soporte</h3>
 
-- 🌱 I’m currently learning **React, Next.js, TS**
+- 🌱 Actualmente estoy aprendiendo **React, Next.js, TS**
 
-- 👯 I’m looking to collaborate on **Support Specialist OR Developer**
+- 👯 Busco colaborar en **Especialista de Soporte o Desarrollador**
 
-- 🤝 I’m looking for help with **Support Specialist OR Developer**
+- 🤝 Estoy buscando ayuda con **Especialista de Soporte o Desarrollador**
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **ricardosmite@outlook.com**
+- 💬 Pregúntame sobre **cualquier cosa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
