@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo Hepburn</h1>
-<h3 align="center">Desarrollador FullStack Especialista de Soporte</h3>
+<h3 align="center">Desarrollador FullStack, Especialista de Soporte y Administrador de redes</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React, Next.js, TS**
 
